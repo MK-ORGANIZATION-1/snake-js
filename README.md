@@ -1,4 +1,4 @@
 # snake-js
-Snake game in Js
+Snake game in Javascript
 
-Your site is ready to be published at https://mk-organization-1.github.io/snake-js
+# DEMO : https://mk-organization-1.github.io/snake-js
